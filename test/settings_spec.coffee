@@ -4,7 +4,7 @@ cookie  = require 'tiny-cookie'
 
 describe 'context/default', ->
 
-  Settings = require('../src/settings')
+  Settings = require('../lib/settings')
 
   # ------------------------------------------------------------------
   describe '#constructor', ->
