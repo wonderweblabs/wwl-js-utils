@@ -1,0 +1,56 @@
+{
+  "name": "wwl-js-utils",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.coffee",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start karma.conf.js"
+  },
+  "author": {
+    "name": "wonderweblabs",
+    "email": "email@wonderweblabs.com",
+    "url": "https://www.wonderweblabs.com"
+  },
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/wonderweblabs/wwl-js-utils.git"
+  },
+  "license": "MIT",
+  "files": [
+    "src",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "deepmerge": "^0.2.10",
+    "q": ">=2.0.3",
+    "tiny-cookie": "^0.5.5",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "browserify-incremental": "^3.0.1",
+    "browserify-istanbul": "^1.0.0",
+    "chai": "^3.5.0",
+    "coffee-script": "^1.10.0",
+    "coffeeify": "^2.0.1",
+    "istanbul": "^0.4.2",
+    "jsdom": "^8.1.0",
+    "karma": "^0.13.22",
+    "karma-browserify": "^5.0.2",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-coffee-preprocessor": "^0.3.0",
+    "karma-coverage": "^0.5.5",
+    "karma-mocha": "^0.2.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-sinon-chai": "^1.2.0",
+    "lolex": "^1.4.0",
+    "mocha": "^2.4.5",
+    "mocha-jsdom": "^1.1.0",
+    "phantomjs-prebuilt": "^2.1.5",
+    "sinon": "^1.17.3",
+    "sinon-chai": "^2.8.0",
+    "watchify": "^3.7.0"
+  }
+}
