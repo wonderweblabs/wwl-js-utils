@@ -7,7 +7,7 @@ Loading configurations/settings over cookie or script tag or by passing in the c
 ### Options
 
 ```coffeescript
-new (require('wwl-js-utils/settings'))({
+new (require('wwl-js-utils/lib/settings'))({
   # one of those is required:
   data:         { test: 1 }
   cookieKey:    'id-of-config-cookie-key'
