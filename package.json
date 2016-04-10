@@ -4,7 +4,8 @@
   "description": "",
   "main": "lib/index.coffee",
   "scripts": {
-    "test": "./node_modules/karma/bin/karma start karma.conf.js"
+    "test": "./node_modules/karma/bin/karma start karma.conf.js",
+    "test-ci": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
   },
   "author": {
     "name": "wonderweblabs",
