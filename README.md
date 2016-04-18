@@ -1,8 +1,8 @@
 # WWL JS Utils
 
-| Master | Develop |
-|--------|---------|
-| [![Build Status](https://travis-ci.org/wonderweblabs/wwl-js-utils.svg?branch=master)](https://travis-ci.org/wonderweblabs/wwl-js-utils) | [![Build Status](https://travis-ci.org/wonderweblabs/wwl-js-utils.svg?branch=develop)](https://travis-ci.org/wonderweblabs/wwl-js-utils) |
+| Current Version | Master | Develop |
+|-----------------|--------|---------|
+| [![npm version](https://badge.fury.io/js/wwl-js-utils.svg)](https://badge.fury.io/js/wwl-js-utils) | [![Build Status](https://travis-ci.org/wonderweblabs/wwl-js-utils.svg?branch=master)](https://travis-ci.org/wonderweblabs/wwl-js-utils) | [![Build Status](https://travis-ci.org/wonderweblabs/wwl-js-utils.svg?branch=develop)](https://travis-ci.org/wonderweblabs/wwl-js-utils) |
 
 ---
 
