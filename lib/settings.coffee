@@ -37,7 +37,7 @@ module.exports = class Settings
 
     @_clearContent() if @options.removeAfterParse == true
 
-    Q.resolve()
+    Q()
 
   get: (key) ->
     v = @settings[key]
