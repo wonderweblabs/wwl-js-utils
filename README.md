@@ -1,5 +1,12 @@
 # WWL JS Utils
 
+| Current Version | Master | Develop |
+|-----------------|--------|---------|
+| [![npm version](https://badge.fury.io/js/wwl-js-utils.svg)](https://badge.fury.io/js/wwl-js-utils) | [![Build Status](https://travis-ci.org/wonderweblabs/wwl-js-utils.svg?branch=master)](https://travis-ci.org/wonderweblabs/wwl-js-utils) | [![Build Status](https://travis-ci.org/wonderweblabs/wwl-js-utils.svg?branch=develop)](https://travis-ci.org/wonderweblabs/wwl-js-utils) |
+
+---
+
+
 ## settings
 
 Loading configurations/settings over cookie or script tag or by passing in the config directly.
