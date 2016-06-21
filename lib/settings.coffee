@@ -2,7 +2,6 @@ Q       = require 'q'
 _       = require 'underscore'
 cookie  = require 'tiny-cookie'
 merge   = require 'deepmerge'
-Base64  = require 'js-base64'
 
 ###
 
@@ -89,7 +88,6 @@ module.exports = class Settings
       str = atob(str)
       str = JSON.parse(str)
 
-    Base64.Base64.decode(str)
     str
 
   # @nodoc

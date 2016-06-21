@@ -27,8 +27,7 @@
     "deepmerge": "^0.2.10",
     "q": ">=2.0.3",
     "tiny-cookie": "^0.5.5",
-    "underscore": "^1.8.3",
-    "js-base64": ">=2.1.9"
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "browserify": "^13.0.0",
